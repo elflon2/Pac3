@@ -1,0 +1,125 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-10.964219093323, 8.0442450780538e-006, 0.0001400676992489),
+				["Position"] = Vector(0.6591796875, 0.37060546875, -0.12646484375),
+				["Bone"] = "left thigh",
+				["UniqueID"] = "459885505",
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(10.851826667786, 4.5639267227671e-006, 3.3360127417836e-005),
+				["Bone"] = "right thigh",
+				["UniqueID"] = "2241806583",
+				["ClassName"] = "bone",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4079095235",
+				["ClassName"] = "bodygroup",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(23.184204101563, 1.8035579919815, 8.6286315917969),
+				["Position"] = Vector(1.599609375, 0.83447265625, -0.6015625),
+				["Bone"] = "right upperarm",
+				["UniqueID"] = "1286578593",
+				["ClassName"] = "bone",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(25.943216323853, -6.0375237464905, -9.8382158279419),
+				["Position"] = Vector(1.5361328125, -0.166015625, 0.3172607421875),
+				["Bone"] = "left forearm",
+				["UniqueID"] = "3551917207",
+				["ClassName"] = "bone",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1927795158",
+				["Position"] = Vector(4.6376953125, -5.1083984375, -0.314453125),
+				["AngleOffset"] = Angle(-0.10000000149012, 0, 0),
+				["Size"] = 4.9,
+				["ClassName"] = "light",
+				["Color"] = Vector(47, 177, 25),
+				["EditorExpand"] = true,
+				["Brightness"] = 4,
+				["Angles"] = Angle(-8.5377359937411e-007, -2.7189950942993, -1.7075474261219e-006),
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-31.76643371582, -11.620981216431, 6.179370880127),
+				["Position"] = Vector(2.46240234375, -0.00390625, 1.150390625),
+				["Bone"] = "right forearm",
+				["UniqueID"] = "4229622135",
+				["ClassName"] = "bone",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-23.053932189941, -0.6163746714592, -26.153451919556),
+				["Position"] = Vector(1.39794921875, 0.61083984375, -1.2333984375),
+				["Bone"] = "left upperarm",
+				["UniqueID"] = "1340237802",
+				["ClassName"] = "bone",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "1272582784",
+				["RelativeBones"] = false,
+				["WalkSpeed"] = 0.1,
+				["LodOverride"] = -1.2,
+				["Size"] = 1.2,
+				["RunSpeed"] = 0.2,
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-87.947250366211, -118.8664932251, -10.20841884613),
+				["UniqueID"] = "2082996158",
+				["Position"] = Vector(-11.02587890625, -12.3076171875, 7.154296875),
+				["Size"] = 0.8,
+				["Bone"] = "left thigh",
+				["Model"] = "models/weapons/golden_chainsword.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "517117452",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
